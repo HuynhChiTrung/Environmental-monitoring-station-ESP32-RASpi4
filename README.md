@@ -30,6 +30,7 @@ Dự án xây dựng hệ thống giám sát nhiệt độ và độ ẩm theo t
 - Cho phép người dùng điều khiển quạt từ xa bằng cách gửi tín hiệu ON/OFF lên Firebase.
 
 ---
+![image](https://github.com/user-attachments/assets/087923e0-597d-4515-a64b-1e52d3cb7bf5)
 
 ## 🔧 Công nghệ & giao thức sử dụng
 
