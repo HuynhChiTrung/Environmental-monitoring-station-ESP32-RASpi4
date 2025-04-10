@@ -1,10 +1,12 @@
-# 🌡️ Hệ Thống Giám Sát Môi Trường và Điều Khiển Từ Xa Dựa Trên ESP32 & Raspberry Pi 4
+![image](https://github.com/user-attachments/assets/29b9a85c-2ab1-4a75-b2c2-be9b3fbdb580)# 🌡️ Hệ Thống Giám Sát Môi Trường và Điều Khiển Từ Xa Dựa Trên ESP32 & Raspberry Pi 4
 
 ## 📘 Mô tả dự án
 
 Dự án xây dựng hệ thống giám sát nhiệt độ và độ ẩm theo thời gian thực, sử dụng **ESP32** và **Raspberry Pi 4** để thu thập, xử lý và đồng bộ dữ liệu lên **Firebase Realtime Database**. Ngoài việc hiển thị dữ liệu trên LCD, hệ thống còn cho phép người dùng điều khiển thiết bị (quạt/đèn) từ xa thông qua ứng dụng Android.
 
 ---
+
+![image](https://github.com/user-attachments/assets/e720abf0-b3a2-4ea6-a73a-8bbf2fd826bd)
 
 ## 🧩 Kiến trúc hệ thống
 
