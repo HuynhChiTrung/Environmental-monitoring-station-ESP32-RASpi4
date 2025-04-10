@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29b9a85c-2ab1-4a75-b2c2-be9b3fbdb580)# 🌡️ Hệ Thống Giám Sát Môi Trường và Điều Khiển Từ Xa Dựa Trên ESP32 & Raspberry Pi 4
+🌡️ Hệ Thống Giám Sát Môi Trường và Điều Khiển Từ Xa Dựa Trên ESP32 & Raspberry Pi 4
 
 ## 📘 Mô tả dự án
 
